@@ -1,5 +1,7 @@
 # ts-playwright-ai-test
 
+![Framework Architecture](docs/architecture.png)
+
 Playwright + [`playwright-bdd`](https://github.com/vitalets/playwright-bdd) end-to-end tests targeting the live site **https://www.yosemitecinema.com**.
 
 Pattern mirrors `ts-playwright-agentic-test-gen`: the same Page Object / Service Object class powers both spec-style tests and BDD step definitions via `@Fixture`/`@Given`/`@When`/`@Then` decorators.
