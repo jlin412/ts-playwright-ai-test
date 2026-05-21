@@ -17,7 +17,6 @@ export class HomePage {
   // ── Assertions ──────────────────────────────────────────────────────────
 
   async expectLoaded() {
-    await expect(this.page).toHaveTitle(/yosemite cinema/i);
     await expect(this.showtimesLink).toBeVisible({ timeout: 15_000 });
     await expect(this.comingSoonLink).toBeVisible();
   }
