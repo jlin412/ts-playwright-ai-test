@@ -77,7 +77,6 @@ Files in `bdd/features/` and `bdd/steps/` are **named by behavior/functionality*
 
 | `bdd/features/` | Tests |
 |---|---|
-| `smoke-api.feature`, `smoke-ui.feature` | minimal reachability checks |
 | `page-browsing.feature` | informational pages + nav |
 | `authentication.feature` | login form + invalid credentials |
 | `ticket-selection.feature` | showtime → ticket add flow |
@@ -110,6 +109,23 @@ Step text is **behavior/intention-driven**, not click-by-click. Prefer:
 - `When I select a movie that has scheduled showtimes` over `When I click the first movie card`
 
 For multi-step setup that isn't itself the test (e.g. reaching the payment page to test payment validation), use a composite `@Given` in a `bdd/steps/*.steps.ts` orchestration file rather than a long `Background` of granular steps.
+
+### Pre-merge checklist
+
+Always run both suites locally and confirm they pass before merging or pushing:
+
+```bash
+# 1. Spec smoke (API + UI)
+npm test
+
+# 2. BDD smoke (9 @smoke scenarios)
+npm run bddgen && npx playwright test -c playwright.bdd.config.ts
+
+# 3. BDD full regression (32 scenarios)
+npm run test:bdd:regression
+```
+
+All three must be green. Do not commit a fix for one suite without re-verifying the other.
 
 ### Feature file structure rules
 
