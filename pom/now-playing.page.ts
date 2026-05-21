@@ -16,7 +16,6 @@ export class NowPlayingPage {
       await this.page.goto(new URL('/now-playing', baseURL).toString());
       return;
     }
-
     await this.page.goto('/now-playing');
   }
 

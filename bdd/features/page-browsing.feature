@@ -2,6 +2,10 @@
 Feature: Informational pages and navigation
 
     @smoke
+    Scenario: Now playing page loads
+        When I am on the now playing page
+        Then the now playing page is loaded
+
     Scenario: Now playing page lists at least one movie
         When I am on the now playing page
         Then the now playing page is loaded
