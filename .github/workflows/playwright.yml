@@ -29,9 +29,6 @@ jobs:
       - name: Run Playwright spec smoke
         run: npm test
 
-      - name: Generate BDD specs
-        run: npm run bddgen
-
       - name: Run Playwright BDD smoke
         run: npm run test:bdd
 
