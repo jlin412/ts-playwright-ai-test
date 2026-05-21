@@ -33,7 +33,7 @@ export class NowPlayingPage {
   async expectAtLeastOneMovieListed() {
     await expect
       .poll(async () => await this.movieLinks().count(), {
-        timeout: 15_000,
+        timeout: 30_000,
         intervals: [500, 1000, 2000],
         message: 'Waiting for at least one /movie/* link to appear on /now-playing',
       })

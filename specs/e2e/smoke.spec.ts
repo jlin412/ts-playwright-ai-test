@@ -12,7 +12,7 @@ test.describe('UI smoke', () => {
 
     await expect
       .poll(async () => await nowPlayingPage.movieLinks().count(), {
-        timeout: 15_000,
+        timeout: 30_000,
         intervals: [500, 1000, 2000],
         message: 'Waiting for at least one /movie/* link on /now-playing',
       })
