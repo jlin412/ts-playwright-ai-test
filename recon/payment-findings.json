@@ -1,0 +1,450 @@
+{
+  "baseURL": "https://www.yosemitecinema.com",
+  "generatedAt": "2026-05-21T01:49:28.154Z",
+  "steps": {
+    "A_payment_page_loaded": {
+      "url": "https://www.yosemitecinema.com/checkout/payment",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nAdd Gift Card, Voucher, Promo Code\nAPPLY\ncheck\nTickets\ncheck\nFood & Drink\ncheck\nCart\nPayment\nPricing\nItems\n$34.95\nTotals\n$34.95\nComplete Your Order\nEmail\nGift Cards & Promos\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nPayment Information\nPAY $34.95 WITH CARD"
+    },
+    "B_host_page_inventory": {
+      "count": 12,
+      "items": [
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": null,
+          "id": "f_abf1fe4f-aba2-40d4-b640-aefe9e476714",
+          "placeholder": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": "APPLY"
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": "Start a Tab"
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": "Click to view payment options"
+        },
+        {
+          "tag": "INPUT",
+          "type": "email",
+          "name": null,
+          "id": "f_479b4131-aa57-4b33-ac3a-64ffcf1d7477",
+          "placeholder": null,
+          "ariaLabel": "Email",
+          "testId": "payments-form-email-address",
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": null,
+          "id": "f_9aef07c9-a8e2-4700-8602-0e950bef86b9",
+          "placeholder": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": null,
+          "value": null,
+          "disabled": false,
+          "required": false,
+          "text": "APPLY"
+        },
+        {
+          "tag": "BUTTON",
+          "type": "button",
+          "name": null,
+          "id": null,
+          "placeholder": null,
+          "ariaLabel": null,
+          "testId": "payments-form-pay-with-card-button",
+          "value": null,
+          "disabled": true,
+          "required": false,
+          "text": "PAY $34.95 WITH CARD"
+        }
+      ]
+    },
+    "C_stripe_iframe_inventory": {
+      "count": 7,
+      "frames": [
+        {
+          "name": "__privateStripeFrame2774",
+          "src": "https://js.stripe.com/v3/elements-inner-accessory-target-d76d88c34f78bd7c3de4bd1cc5d6c7b9.html#__shared_params__[version",
+          "title": "Secure payment input frame",
+          "allow": "payment *; publickey-credentials-get *",
+          "sandbox": null
+        },
+        {
+          "name": null,
+          "src": "",
+          "title": null,
+          "allow": null,
+          "sandbox": null
+        },
+        {
+          "name": "__privateStripeController2771",
+          "src": "https://js.stripe.com/v3/controller-with-preconnect-204a2ad63f39277926888d924b18695f.html#__shared_params__[version]=v3&",
+          "title": null,
+          "allow": "payment *",
+          "sandbox": null
+        },
+        {
+          "name": "__privateStripeFrame2773",
+          "src": "https://js.stripe.com/v3/elements-inner-loader-ui-b771346e6e01a0c6cf138af0de8a179d.html#__shared_params__[version]=v3&__",
+          "title": null,
+          "allow": "payment *",
+          "sandbox": null
+        },
+        {
+          "name": "__privateStripeFrame2776",
+          "src": "https://js.stripe.com/v3/payment-request-inner-google-pay-facc5ce7fed355cf885f6863fffc609a.html#__shared_params__[versio",
+          "title": null,
+          "allow": "payment *",
+          "sandbox": "allow-scripts allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin"
+        },
+        {
+          "name": "hcaptcha-invisible",
+          "src": "https://js.stripe.com/v3/hcaptcha-invisible-2437b84d9aa773fe20644cb3891315f6.html#debugMode=false&parentOrigin=https%3A%",
+          "title": null,
+          "allow": null,
+          "sandbox": null
+        },
+        {
+          "name": "__privateStripeMetricsController2770",
+          "src": "https://js.stripe.com/v3/m-outer-3437aaddcdf6922d623e172c2d6f9278.html#url=https%3A%2F%2Fwww.yosemitecinema.com%2Fchecko",
+          "title": null,
+          "allow": "payment *",
+          "sandbox": null
+        }
+      ]
+    },
+    "D_stripe_frame_count": {
+      "count": 6
+    },
+    "E_stripe_frame_inputs": {
+      "count": 10,
+      "items": [
+        {
+          "tag": "INPUT",
+          "placeholder": "1234 1234 1234 1234",
+          "ariaLabel": null,
+          "type": "text"
+        },
+        {
+          "tag": "INPUT",
+          "placeholder": "MM / YY",
+          "ariaLabel": null,
+          "type": "text"
+        },
+        {
+          "tag": "INPUT",
+          "placeholder": "CVC",
+          "ariaLabel": null,
+          "type": "text"
+        },
+        {
+          "tag": "INPUT",
+          "placeholder": "12345",
+          "ariaLabel": null,
+          "type": "text"
+        },
+        {
+          "tag": "BUTTON",
+          "placeholder": null,
+          "ariaLabel": null,
+          "type": "submit"
+        },
+        {
+          "tag": "INPUT",
+          "placeholder": null,
+          "ariaLabel": null,
+          "type": null
+        },
+        {
+          "tag": "INPUT",
+          "placeholder": null,
+          "ariaLabel": null,
+          "type": null
+        },
+        {
+          "tag": "INPUT",
+          "placeholder": null,
+          "ariaLabel": null,
+          "type": null
+        },
+        {
+          "tag": "INPUT",
+          "placeholder": null,
+          "ariaLabel": null,
+          "type": null
+        },
+        {
+          "tag": "INPUT",
+          "placeholder": null,
+          "ariaLabel": null,
+          "type": null
+        }
+      ]
+    },
+    "F_probe_empty_submit_before": {
+      "url": "https://www.yosemitecinema.com/checkout/payment",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nAdd Gift Card, Voucher, Promo Code\nAPPLY\ncheck\nTickets\ncheck\nFood & Drink\ncheck\nCart\nPayment\nPricing\nItems\n$34.95\nTotals\n$34.95\nComplete Your Order\nEmail\nGift Cards & Promos\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nPayment Information\nPAY $34.95 WITH CARD"
+    },
+    "G_probe_empty_submit_after": {
+      "url": "https://www.yosemitecinema.com/checkout/payment",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nAdd Gift Card, Voucher, Promo Code\nAPPLY\ncheck\nTickets\ncheck\nFood & Drink\ncheck\nCart\nPayment\nPricing\nItems\n$34.95\nTotals\n$34.95\nComplete Your Order\nEmail\nGift Cards & Promos\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nPayment Information\nPAY $34.95 WITH CARD"
+    },
+    "H_errors_after_empty_submit": {
+      "count": 1,
+      "errors": [
+        {
+          "text": "delete Remove",
+          "class": "q-slide-item__right absolute-full row no-wrap items-center justify-end bg-warnin"
+        }
+      ]
+    },
+    "I_probe_bad_email_after": {
+      "url": "https://www.yosemitecinema.com/checkout/payment",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nAdd Gift Card, Voucher, Promo Code\nAPPLY\ncheck\nTickets\ncheck\nFood & Drink\ncheck\nCart\nPayment\nPricing\nItems\n$34.95\nTotals\n$34.95\nComplete Your Order\nEmail\nerror\nNot a valid email address\nGift Cards & Promos\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nPayment Information\nPAY $34.95 WITH CARD"
+    },
+    "J_email_validation_errors": {
+      "errors": [
+        "Email\nerror\nNot a valid email address",
+        "Not a valid email address"
+      ]
+    },
+    "K_email_html5_validity": {
+      "valid": false,
+      "message": "Please include an '@' in the email address. 'notanemail' is missing an '@'."
+    },
+    "L_probe_valid_email_no_card": {
+      "url": "https://www.yosemitecinema.com/checkout/payment",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nAdd Gift Card, Voucher, Promo Code\nAPPLY\ncheck\nTickets\ncheck\nFood & Drink\ncheck\nCart\nPayment\nPricing\nItems\n$34.95\nTotals\n$34.95\nComplete Your Order\nEmail\nGift Cards & Promos\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nPayment Information\nPAY $34.95 WITH CARD"
+    },
+    "Z_non_GET_requests": [
+      {
+        "method": "POST",
+        "url": "play.google.com/log"
+      },
+      {
+        "method": "POST",
+        "url": "play.google.com/log"
+      },
+      {
+        "method": "POST",
+        "url": "play.google.com/log"
+      },
+      {
+        "method": "POST",
+        "url": "play.google.com/log"
+      },
+      {
+        "method": "POST",
+        "url": "play.google.com/log"
+      },
+      {
+        "method": "POST",
+        "url": "play.google.com/log"
+      },
+      {
+        "method": "POST",
+        "url": "browser-intake-datadoghq.com/api/v2/rum"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "m.stripe.com/6"
+      },
+      {
+        "method": "POST",
+        "url": "q.stripe.com/csp-report"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "api.hcaptcha.com/checksiteconfig"
+      },
+      {
+        "method": "POST",
+        "url": "m.stripe.com/6"
+      },
+      {
+        "method": "POST",
+        "url": "m.stripe.com/6"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "api.hcaptcha.com/getcaptcha/463b917e-e264-403f-ad34-34af0ee10294"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "www.google-analytics.com/g/collect"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "r.stripe.com/b"
+      }
+    ]
+  }
+}

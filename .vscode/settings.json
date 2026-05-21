@@ -1,0 +1,13 @@
+{
+  "cucumber.features": [
+    "features/**/*.feature"
+  ],
+  "cucumber.glue": [
+    "pom/**/*.ts",
+    "som/**/*.ts",
+    "bdd/steps/**/*.ts",
+    "features/**/*.ts",
+    "src/**/*.ts",
+    "tests/**/*.ts"
+  ]
+}

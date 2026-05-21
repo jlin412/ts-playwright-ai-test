@@ -1,0 +1,724 @@
+{
+  "baseURL": "https://www.yosemitecinema.com",
+  "generatedAt": "2026-05-20T20:50:56.664Z",
+  "steps": {
+    "00_picked_movie": {
+      "url": "https://www.yosemitecinema.com/movie/7579"
+    },
+    "01_tickets_tab_before_guest": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "h1": null,
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTickets\nFood & Drink\nCart\nPayment\nAlready have an account?\nEmail\nPassword\nLog In\nForgot Password\nDon't have an account?\nSign up to earn Hero Points for every purchase to be redeemed for rewards.\nSign Up\nContinue As Guest\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "email",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Email",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "password",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Password",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Log In",
+          "type": "submit",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Forgot Password",
+          "type": null,
+          "href": "/password/forgot",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Sign Up",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Continue As Guest",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "02_tickets_tab_after_guest": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "h1": null,
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nEMPTY CART\nTickets\nFood & Drink\nCart\nPayment\nGuest Checkout\n\nHaven't signed up yet? Include a Day Pass with your order\n\nDAY PASS\n$18.00\nADD\nTickets\nVR Adult\nBetween 13 and 59\n$34.95\nADD\nVR Child\nBetween 3 and 12\n$22.95\nADD\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "EMPTY CART",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "03_ticket_type_controls": {
+      "count": 5,
+      "items": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "type": "text",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "EMPTY CART",
+          "ariaLabel": null,
+          "type": "button",
+          "value": "",
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "ariaLabel": null,
+          "type": "button",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "ariaLabel": null,
+          "type": "button",
+          "value": "",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "ariaLabel": null,
+          "type": "button",
+          "value": "",
+          "disabled": false
+        }
+      ]
+    },
+    "04_advanced_via": {
+      "result": "could not click any \"next/food/continue\" button — ticket types may be required first"
+    },
+    "05_food_drink_tab": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "h1": null,
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nEMPTY CART\nTickets\nFood & Drink\nCart\nPayment\nGuest Checkout\n\nHaven't signed up yet? Include a Day Pass with your order\n\nDAY PASS\n$18.00\nADD\nTickets\nVR Adult\nBetween 13 and 59\n$34.95\nADD\nVR Child\nBetween 3 and 12\n$22.95\nADD\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "EMPTY CART",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "06_cart_tab": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "h1": null,
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nEMPTY CART\nTickets\nFood & Drink\nCart\nPayment\nGuest Checkout\n\nHaven't signed up yet? Include a Day Pass with your order\n\nDAY PASS\n$18.00\nADD\nTickets\nVR Adult\nBetween 13 and 59\n$34.95\nADD\nVR Child\nBetween 3 and 12\n$22.95\nADD\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "EMPTY CART",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "07_payment_tab": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "h1": null,
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nEMPTY CART\nTickets\nFood & Drink\nCart\nPayment\nGuest Checkout\n\nHaven't signed up yet? Include a Day Pass with your order\n\nDAY PASS\n$18.00\nADD\nTickets\nVR Adult\nBetween 13 and 59\n$34.95\nADD\nVR Child\nBetween 3 and 12\n$22.95\nADD\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "EMPTY CART",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    }
+  }
+}

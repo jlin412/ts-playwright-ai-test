@@ -1,0 +1,735 @@
+{
+  "baseURL": "https://www.yosemitecinema.com",
+  "generatedAt": "2026-05-20T20:23:54.403Z",
+  "flows": {
+    "now_playing_inventory": {
+      "url": "https://www.yosemitecinema.com/now-playing/",
+      "title": "Now Playing",
+      "movieLinkCount": 0,
+      "firstTenHrefs": []
+    },
+    "membership_page_inventory": {
+      "url": "https://www.yosemitecinema.com/membership--guest-pricing/",
+      "title": "Membership & Guest Pricing",
+      "h1": "Membership & Guest Pricing - Yosemite Cinema",
+      "interactiveCount": 29,
+      "ctaCandidates": [],
+      "interactiveSample": [
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "SHOWTIMES",
+          "href": "/calendar",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "COMING SOON",
+          "href": "/coming-soon",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "VIRTUAL REALITY\nexpand_more",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "MEMBERS\nexpand_more",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "arrow_drop_down",
+          "href": null,
+          "role": null,
+          "ariaLabel": "Expand"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": "Menu"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": "Header Menu Icon"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/now-playing",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/location-information",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/our-story",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/community",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/contact-us",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/private-rentals",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/checkout/items",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/gift-cards",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/advertise",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/cookie-policy",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "FAQ page",
+          "href": "https:",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "VR Experiences",
+          "href": "/yosemite-vr",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Privacy Policy",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Community",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Private Rentals",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Contact Us",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Gift Cards",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Advertise",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "href": "/cookie-policy",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        }
+      ]
+    },
+    "checkout_items_inventory": {
+      "url": "https://www.yosemitecinema.com/checkout/items",
+      "title": "Yosemite Cinema",
+      "h1": null,
+      "interactiveCount": 53,
+      "interactiveSample": [
+        {
+          "tag": "BUTTON",
+          "text": "Popcorn",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Beverages",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Beer and Wine",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Snacks",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Treats",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Food",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "NEXT: CART",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        }
+      ],
+      "bodyTextPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\nAdd\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife"
+    },
+    "calendar_inventory": {
+      "url": "https://www.yosemitecinema.com/calendar/",
+      "title": "Calendar",
+      "h1": "Calendar - Yosemite Cinema",
+      "interactiveCount": 30,
+      "interactiveSample": [
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "SHOWTIMES",
+          "href": "/calendar",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "COMING SOON",
+          "href": "/coming-soon",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "VIRTUAL REALITY\nexpand_more",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "MEMBERS\nexpand_more",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "arrow_drop_down",
+          "href": null,
+          "role": null,
+          "ariaLabel": "Expand"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": "Menu"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": "Header Menu Icon"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/now-playing",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/location-information",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/our-story",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/community",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/contact-us",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/private-rentals",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/checkout/items",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/gift-cards",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/advertise",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/cookie-policy",
+          "role": "listitem",
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "VIEW NEXT SHOWINGS",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Privacy Policy",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Community",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Private Rentals",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Contact Us",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Gift Cards",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Advertise",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "href": "/cookie-policy",
+          "role": null,
+          "ariaLabel": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "href": null,
+          "role": null,
+          "ariaLabel": null
+        }
+      ]
+    },
+    "external_hosts_observed_filtered": {
+      "note": "analytics/CDN/fonts hosts excluded",
+      "hosts": []
+    }
+  }
+}

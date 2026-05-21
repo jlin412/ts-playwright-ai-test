@@ -1,0 +1,48 @@
+name: Playwright tests
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      BASE_URL: https://www.yosemitecinema.com
+      SMOKE_ONLY: '1'
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers (chromium)
+        run: npx playwright install --with-deps chromium
+
+      - name: Run Playwright spec smoke
+        run: npm test
+
+      - name: Generate BDD specs
+        run: npm run bddgen
+
+      - name: Run Playwright BDD smoke
+        run: npm run test:bdd
+
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: playwright-reports
+          path: |
+            playwright-report
+            cucumber-report
+            test-results
+          retention-days: 7
+          if-no-files-found: ignore

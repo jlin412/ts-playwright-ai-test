@@ -1,0 +1,21 @@
+{
+	"servers": {
+		"playwright": {
+			"type": "stdio",
+			"command": "npx",
+			"args": [
+				"@playwright/mcp@latest"
+			]
+		},
+		"playwright-local-testgen": {
+			"type": "stdio",
+			"command": "node",
+			"args": [
+				"mcp/playwright-mcp-server.mjs"
+			],
+			"env": {
+				"OPENAI_MODEL": "gpt-4o-mini"
+			}
+		}
+	}
+}

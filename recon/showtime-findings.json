@@ -1,0 +1,131 @@
+{
+  "movieURL": "https://www.yosemitecinema.com/movie/toy-story-5",
+  "timeButtonFound": true,
+  "timeButtonText": "12:45 PM",
+  "beforeURL": "https://www.yosemitecinema.com/movie/7579",
+  "afterURL": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+  "sameTabNavigated": true,
+  "popups": [],
+  "newH1": null,
+  "newTitle": "Experience Yosemite",
+  "newBodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTickets\nFood & Drink\nCart\nPayment\nAlready have an account?\nEmail\nPassword\nLog In\nForgot Password\nDon't have an account?\nSign up to earn Hero Points for every purchase to be redeemed for rewards.\nSign Up\nContinue As Guest\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+  "newInteractive": [
+    {
+      "tag": "INPUT",
+      "text": "",
+      "href": null,
+      "type": "text",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": "Add Gift Card, Voucher, Promo Code"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "APPLY",
+      "href": null,
+      "type": "button",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null,
+      "type": "button",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null,
+      "type": "button",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null,
+      "type": "button",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "href": null,
+      "type": "email",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": "Email"
+    },
+    {
+      "tag": "INPUT",
+      "text": "",
+      "href": null,
+      "type": "password",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": "Password"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Log In",
+      "href": null,
+      "type": "submit",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "A",
+      "text": "Forgot Password",
+      "href": "/password/forgot",
+      "type": null,
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Sign Up",
+      "href": null,
+      "type": "button",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Continue As Guest",
+      "href": null,
+      "type": "button",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "A",
+      "text": "Cookie Policy.",
+      "href": "/cookie-policy",
+      "type": null,
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ACCEPT & DISMISS",
+      "href": null,
+      "type": "button",
+      "name": null,
+      "placeholder": null,
+      "ariaLabel": null
+    }
+  ]
+}

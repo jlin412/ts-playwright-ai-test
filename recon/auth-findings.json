@@ -1,0 +1,181 @@
+{
+  "baseURL": "https://www.yosemitecinema.com",
+  "generatedAt": "2026-05-21T03:05:39.929Z",
+  "steps": {
+    "A_movie_selected": {
+      "url": "https://www.yosemitecinema.com/movie/7579"
+    },
+    "B_before_login": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTickets\nFood & Drink\nCart\nPayment\nAlready have an account?\nEmail\nPassword\nLog In\nForgot Password\nDon't have an account?\nSign up to earn Hero Points for every purchase to be redeemed for rewards.\nSign Up\nContinue As Guest\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS"
+    },
+    "C_after_login": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTickets\nFood & Drink\nCart\nPayment\nAlready have an account?\nEmail\nPassword\nLog In\nForgot Password\nDon't have an account?\nSign up to earn Hero Points for every purchase to be redeemed for rewards.\nSign Up\nContinue As Guest\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS\nMessage\nIncorrect email or password\nOK"
+    },
+    "C2_after_login_inventory": {
+      "items": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "testId": null,
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "ariaLabel": null,
+          "testId": null,
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "ariaLabel": null,
+          "testId": null,
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "ariaLabel": null,
+          "testId": null,
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "ariaLabel": null,
+          "testId": null,
+          "placeholder": null
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "email",
+          "href": null,
+          "ariaLabel": "Email",
+          "testId": "email-input",
+          "placeholder": null
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "password",
+          "href": null,
+          "ariaLabel": "Password",
+          "testId": "password-input",
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Log In",
+          "type": "submit",
+          "href": null,
+          "ariaLabel": null,
+          "testId": "login-submit-button",
+          "placeholder": null
+        },
+        {
+          "tag": "A",
+          "text": "Forgot Password",
+          "type": null,
+          "href": "/password/forgot",
+          "ariaLabel": null,
+          "testId": "forgot-password-link",
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Sign Up",
+          "type": "button",
+          "href": null,
+          "ariaLabel": null,
+          "testId": null,
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Continue As Guest",
+          "type": "button",
+          "href": null,
+          "ariaLabel": null,
+          "testId": "continue-as-guest-button",
+          "placeholder": null
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "ariaLabel": null,
+          "testId": null,
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "ariaLabel": null,
+          "testId": null,
+          "placeholder": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "OK",
+          "type": "button",
+          "href": null,
+          "ariaLabel": null,
+          "testId": null,
+          "placeholder": null
+        }
+      ]
+    },
+    "D_member_ticket_info": {
+      "items": [
+        "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR",
+        "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR",
+        "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR",
+        "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR",
+        "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR",
+        "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR",
+        "Yosemite Cinema\nYosemite VR",
+        "Yosemite VR"
+      ]
+    },
+    "E_logout_options": {
+      "items": []
+    },
+    "F_member_indicators": {
+      "items": [
+        "Don't have an account?\nSign up to earn Hero Points for every purchase to be redeemed for rewards.",
+        "Sign up to earn Hero Points for every purchase to be redeemed for rewards."
+      ]
+    },
+    "G_next_button_as_member": {
+      "text": "Continue As Guest"
+    },
+    "H_wrong_password_result": {
+      "errors": [
+        "Your Cart is Empty",
+        "This website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+        "This website uses cookies. For more information, see our Cookie Policy."
+      ],
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTickets\nFood & Drink\nCart\nPayment\nAlready have an account?\nEmail\nPassword\nLog In\nForgot Password\nDon't have an account?\nSign up to earn Hero Points for every purchase to be redeemed for rewards.\nSign Up\nContinue As Guest\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS\nMessage\nIncorrect email or password\nOK"
+    }
+  }
+}

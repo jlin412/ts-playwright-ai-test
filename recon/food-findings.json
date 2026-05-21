@@ -1,0 +1,1396 @@
+{
+  "baseURL": "https://www.yosemitecinema.com",
+  "generatedAt": "2026-05-21T02:02:57.721Z",
+  "steps": {
+    "A_food_page_initial": {
+      "url": "https://www.yosemitecinema.com/checkout/items",
+      "bodyPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\ncheck\nTickets\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\nAdd\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd"
+    },
+    "A_food_page_inventory": {
+      "items": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "ariaLabel": "Search...",
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Popcorn",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Beverages",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Beer and Wine",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Snacks",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Treats",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Food",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "DIV",
+          "text": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down",
+          "type": null,
+          "ariaLabel": "Expand",
+          "testId": null,
+          "disabled": false,
+          "role": "button"
+        },
+        {
+          "tag": "DIV",
+          "text": "Experience YosemiteMay 22nd at 12:45 pm  Yosemite Cinema · Y",
+          "type": null,
+          "ariaLabel": "Collapse",
+          "testId": null,
+          "disabled": false,
+          "role": "button"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "NEXT: CART",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": "checkout-controls-next-button",
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        }
+      ]
+    },
+    "B_probe_Popcorn": {
+      "clicked": {
+        "found": true,
+        "noAddBtn": true
+      },
+      "bodyPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\nAdd\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd",
+      "dialogs": [
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--left q-drawer--bordered q-drawer--standard",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-px-md q-pt-md hover-scroll",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--right q-drawer--bordered q-drawer--standard fixed",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-pa-sm",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        }
+      ],
+      "qtyCandidates": [],
+      "addBtnsAfter": 42,
+      "totalInteractive": 55
+    },
+    "B_probe_Caramel_Corn": {
+      "clicked": {
+        "found": true,
+        "clicked": true
+      },
+      "bodyPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\nAdd\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd\nclose\nADD\nPopcorn\nPopcorn\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.00\ncheck\nradio_button_unchecked\nMedium\n$7.00\nradio_button_unchecked\nLarge\n$8.00\nradio_button_unchecked\nBucket Refill\n$8.00\nradio_button_unchecked\nBucket\n$10.00\nradio_button_unchecked\nSweet & Savory\n$15.00\nradio_button_unchecked\nDiamond Elite Refill\nradio_button_unchecked\nPlatinum Refill\n$7.00\nButter\nRequired\nChoose 1\nRegular\nLight\nExtra\n+ $0.50\nNone\nAdd a note (special instructions, allergies, etc.)\nTotal: $6.00",
+      "dialogs": [
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--left q-drawer--bordered q-drawer--standard",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-px-md q-pt-md hover-scroll",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--right q-drawer--bordered q-drawer--standard fixed",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-pa-sm",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": "dialog",
+          "class": "q-dialog fullscreen no-pointer-events q-dialog--modal",
+          "text": "close\nADD\nPopcorn\nPopcorn\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.00\ncheck\nradio_button_unchecked\nMedium\n$7.00\nradio_button_unchecked\nLarge\n$8.00\nradio_button_unchecked\nBucket Refill\n$8.00\nradio_button_unchecked\nBucket\n$10.00\nradio_button_unchecked\nSweet & Savory\n$15.00\nradio_button_unchecked\nDiamond Elite Refill\nradio_button_unchecked\nPlatinum Refill\n$7.00\nButter\nRequired\nChoose 1\nRegular",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-dialog__backdrop fixed-full",
+          "text": "",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-dialog__inner flex no-pointer-events q-dialog__inner--maximized q-dialog__inne",
+          "text": "close\nADD\nPopcorn\nPopcorn\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.00\ncheck\nradio_button_unchecked\nMedium\n$7.00\nradio_button_unchecked\nLarge\n$8.00\nradio_button_unchecked\nBucket Refill\n$8.00\nradio_button_unchecked\nBucket\n$10.00\nradio_button_unchecked\nSweet & Savory\n$15.00\nradio_button_unchecked\nDiamond Elite Refill\nradio_button_unchecked\nPlatinum Refill\n$7.00\nButter\nRequired\nChoose 1\nRegular",
+          "visible": true
+        }
+      ],
+      "qtyCandidates": [],
+      "addBtnsAfter": 43,
+      "totalInteractive": 57
+    },
+    "B_probe_Sodas": {
+      "clicked": {
+        "found": true,
+        "clicked": true
+      },
+      "bodyPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\nAdd\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd\nclose\nADD\nSodas\nA description\nSodas\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.25\ncheck\nradio_button_unchecked\nMedium\n$6.75\nradio_button_unchecked\nLarge\n$7.25\nSoda Flavors\nwarning\nRequired — choose below\nChoose 1\nCoke\nDiet Coke\nCherry Coke\nSprite\nCoke Zero\nHi-C Lemonade\nMr. Pibb\nRoot Beer\nUnsweet Tea\nSweet Tea\nRaspberry Tea\nGreen Tea\nSoda Water / Water\nAdd a note (special instructions, allergies, etc.)\nTotal: $6.25",
+      "dialogs": [
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--left q-drawer--bordered q-drawer--standard",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-px-md q-pt-md hover-scroll",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--right q-drawer--bordered q-drawer--standard fixed",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-pa-sm",
+          "text": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": "dialog",
+          "class": "q-dialog fullscreen no-pointer-events q-dialog--modal",
+          "text": "close\nADD\nSodas\nA description\nSodas\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.25\ncheck\nradio_button_unchecked\nMedium\n$6.75\nradio_button_unchecked\nLarge\n$7.25\nSoda Flavors\nwarning\nRequired — choose below\nChoose 1\nCoke\nDiet Coke\nCherry Coke\nSprite\nCoke Zero\nHi-C Lemonade\nMr. Pibb\nRoot Beer\nUnsweet Tea\nSweet Tea\nRaspberry Tea\nGreen Tea\nSoda Water / Water\nAdd a note (special instructions, allerg",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-dialog__backdrop fixed-full",
+          "text": "",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-dialog__inner flex no-pointer-events q-dialog__inner--maximized q-dialog__inne",
+          "text": "close\nADD\nSodas\nA description\nSodas\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.25\ncheck\nradio_button_unchecked\nMedium\n$6.75\nradio_button_unchecked\nLarge\n$7.25\nSoda Flavors\nwarning\nRequired — choose below\nChoose 1\nCoke\nDiet Coke\nCherry Coke\nSprite\nCoke Zero\nHi-C Lemonade\nMr. Pibb\nRoot Beer\nUnsweet Tea\nSweet Tea\nRaspberry Tea\nGreen Tea\nSoda Water / Water\nAdd a note (special instructions, allerg",
+          "visible": true
+        }
+      ],
+      "qtyCandidates": [],
+      "addBtnsAfter": 43,
+      "totalInteractive": 57
+    },
+    "B_probe_Churros": {
+      "clicked": {
+        "found": true,
+        "clicked": true
+      },
+      "bodyPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood\nFood\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\n1\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd\ncheck_circle\nFrench Toast Sticks 5 added to Cart",
+      "dialogs": [
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--left q-drawer--bordered q-drawer--standard",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-px-md q-pt-md hover-scroll",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--right q-drawer--bordered q-drawer--standard fixed",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-pa-sm",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        }
+      ],
+      "qtyCandidates": [],
+      "addBtnsAfter": 41,
+      "totalInteractive": 58
+    },
+    "B_probe_Extras": {
+      "clicked": {
+        "found": true,
+        "clicked": true
+      },
+      "bodyPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood\nFood\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\n1\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd\ncheck_circle\nFrench Toast Sticks 5 added to Cart",
+      "dialogs": [
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--left q-drawer--bordered q-drawer--standard",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-px-md q-pt-md hover-scroll",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--right q-drawer--bordered q-drawer--standard fixed",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-pa-sm",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        }
+      ],
+      "qtyCandidates": [],
+      "addBtnsAfter": 41,
+      "totalInteractive": 58
+    },
+    "B_probe_French_Toast_Sticks_5": {
+      "clicked": {
+        "found": true,
+        "clicked": true
+      },
+      "bodyPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood\nFood\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\n1\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd\ncheck_circle\nFrench Toast Sticks 5 added to Cart",
+      "dialogs": [
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--left q-drawer--bordered q-drawer--standard",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-px-md q-pt-md hover-scroll",
+          "text": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\n1\nTreats\nFood",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer-container",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer q-drawer--right q-drawer--bordered q-drawer--standard fixed",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        },
+        {
+          "role": null,
+          "class": "q-drawer__content fit scroll q-pa-sm",
+          "text": "Food\n1 item  ·  $8.00\nkeyboard_arrow_down\nFrench Toast Sticks 5 / Regular\n$8.00\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART",
+          "visible": true
+        }
+      ],
+      "qtyCandidates": [],
+      "addBtnsAfter": 41,
+      "totalInteractive": 58
+    },
+    "C_popcorn_deep": {
+      "clicked": true,
+      "body": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\nAdd\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd\nclose\nADD\nPopcorn\nPopcorn\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.00\ncheck\nradio_button_unchecked\nMedium\n$7.00\nradio_button_unchecked\nLarge\n$8.00\nradio_button_unchecked\nBucket Refill\n$8.00\nradio_button_unchecked\nBucket\n$10.00\nradio_button_unchecked\nSweet & Savory\n$15.00\nradio_button_unchecked\nDiamond Elite Refill\nradio_button_unchecked\nPlatinum Refill\n$7.00\nButter\nRequired\nChoose 1\nRegular\nLight\nExtra\n+ $0.50\nNone\nAdd a note (special instructions, allergies, etc.)\nTotal: $6.00",
+      "dialogs": [
+        {
+          "html": "<div role=\"dialog\" aria-modal=\"true\" class=\"q-dialog fullscreen no-pointer-events q-dialog--modal\" style=\"\"><div class=\"q-dialog__backdrop fixed-full\" aria-hidden=\"true\" tabindex=\"-1\" style=\"--q-transition-duration: 300ms;\"></div><div class=\"q-dialog__inner flex no-pointer-events q-dialog__inner--maximized q-dialog__inner--standard fixed-full flex-center\" tabindex=\"-1\" style=\"--q-transition-duration: 300ms;\"><div data-v-51745a22=\"\" class=\"q-card rounded-borders-8\" style=\"width: 85%; height: 85%;\"><form data-v-51745a22=\"\" class=\"q-form full-height\" method=\"post\"><!----><!----><!----><div data-v-51745a22=\"\" class=\"\"><div data-v-51745a22=\"\" class=\"row justify-start items-center col absolute-top-right z-top\"><button data-v-51745a22=\"\" class=\"q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--round q-btn--actionable q-focusable q-hoverable q-btn--dense q-pa-sm bg-responsive q-ma-md shadow-3\" tabindex=\"0\" type=\"button\"><span class=\"q-focus-helper\"></span><span class=\"q-btn__conten",
+          "text": "close\nADD\nPopcorn\nPopcorn\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.00\ncheck\nradio_button_unchecked\nMedium\n$7.00\nradio_button_unchecked\nLarge\n$8.00\nradio_button_unchecked\nBucket Refill\n$8.00\nradio_button_unchecked\nBucket\n$10.00\nradio_button_unchecked\nSweet & Savory\n$15.00\nradio_button_unchecked\nDiamond Elite Refill\nradio_button_unchecked\nPlatinum Refill\n$7.00\nButter\nRequired\nChoose 1\nRegular\nLight\nExtra\n+ $0.50\nNone\nAdd a note (special instructions, allergies, etc.)\nTotal: $6.00",
+          "visible": true
+        },
+        {
+          "html": "<div class=\"q-dialog__backdrop fixed-full\" aria-hidden=\"true\" tabindex=\"-1\" style=\"--q-transition-duration: 300ms;\"></div>",
+          "text": "",
+          "visible": true
+        },
+        {
+          "html": "<div class=\"q-dialog__inner flex no-pointer-events q-dialog__inner--maximized q-dialog__inner--standard fixed-full flex-center\" tabindex=\"-1\" style=\"--q-transition-duration: 300ms;\"><div data-v-51745a22=\"\" class=\"q-card rounded-borders-8\" style=\"width: 85%; height: 85%;\"><form data-v-51745a22=\"\" class=\"q-form full-height\" method=\"post\"><!----><!----><!----><div data-v-51745a22=\"\" class=\"\"><div data-v-51745a22=\"\" class=\"row justify-start items-center col absolute-top-right z-top\"><button data-v-51745a22=\"\" class=\"q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--round q-btn--actionable q-focusable q-hoverable q-btn--dense q-pa-sm bg-responsive q-ma-md shadow-3\" tabindex=\"0\" type=\"button\"><span class=\"q-focus-helper\"></span><span class=\"q-btn__content text-center col items-center q-anchor--skip justify-center row\"><i class=\"q-icon notranslate material-icons\" aria-hidden=\"true\" role=\"img\">close</i></span></button><!----><!----><!----><!----></div><!----><div data-v-51745a22=\"\"",
+          "text": "close\nADD\nPopcorn\nPopcorn\nRequired\nChoose 1\nradio_button_checked\nSmall\n$6.00\ncheck\nradio_button_unchecked\nMedium\n$7.00\nradio_button_unchecked\nLarge\n$8.00\nradio_button_unchecked\nBucket Refill\n$8.00\nradio_button_unchecked\nBucket\n$10.00\nradio_button_unchecked\nSweet & Savory\n$15.00\nradio_button_unchecked\nDiamond Elite Refill\nradio_button_unchecked\nPlatinum Refill\n$7.00\nButter\nRequired\nChoose 1\nRegular\nLight\nExtra\n+ $0.50\nNone\nAdd a note (special instructions, allergies, etc.)\nTotal: $6.00",
+          "visible": true
+        }
+      ],
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "ariaLabel": "Search...",
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Popcorn",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Beverages",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Beer and Wine",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Snacks",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Treats",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Food",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "NEXT: CART",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": "checkout-controls-next-button",
+          "disabled": true,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "close",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": null,
+          "disabled": false,
+          "role": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "ariaLabel": null,
+          "testId": "model-form-update",
+          "disabled": false,
+          "role": null
+        }
+      ]
+    }
+  }
+}

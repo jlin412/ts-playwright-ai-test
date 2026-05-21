@@ -1,0 +1,2596 @@
+{
+  "now_playing_movie_hrefs": [
+    "https://www.yosemitecinema.com/movie/7579",
+    "https://www.yosemitecinema.com/movie/the-sheep-detectives",
+    "https://www.yosemitecinema.com/movie/toy-story-5",
+    "https://www.yosemitecinema.com/movie/the-devil-wears-prada-2",
+    "https://www.yosemitecinema.com/movie/mortal-kombat-ii",
+    "https://www.yosemitecinema.com/movie/michael",
+    "https://www.yosemitecinema.com/movie/the-breadwinner",
+    "https://www.yosemitecinema.com/movie/the-mandalorian-and-grogu-2",
+    "https://www.yosemitecinema.com/movie/masters-of-the-universe-2",
+    "https://www.yosemitecinema.com/movie/the-death-of-robin-hood",
+    "https://www.yosemitecinema.com/movie/disclosure-day",
+    "https://www.yosemitecinema.com/movie/supergirl",
+    "https://www.yosemitecinema.com/movie/scary-movie",
+    "https://www.yosemitecinema.com/movie/backrooms",
+    "https://www.yosemitecinema.com/movie/in-the-grey"
+  ],
+  "movie_detail": {
+    "url": "https://www.yosemitecinema.com/movie/7579",
+    "title": "Experience Yosemite",
+    "h1": "Experience Yosemite \nFor Everyone",
+    "bodyTextPreview": "SHOWTIMES\nCOMING SOON\nVIRTUAL REALITY\nexpand_more\nMEMBERS\nexpand_more\narrow_drop_down\nplay_arrow\nExperience Yosemite \nFor Everyone\nRelease Date Sunday, July 10, 2022 ·  Documentary · 17 min\naccessible\nvrpano\nVirtual Reality\nOverview\nExperience Yosemite is a cinematic immersive journey through the wonders of Yosemite Valley. Narrated by Bryan Cranston. The new VR film features motion, scent, and haptics to give visitors an unforgettable journey.\n\nAs of July 2022, Yosemite Cinema is the only permanently installed VR Cinema in North America. Experience Yosemite was made specifically for this location.\nREAD MORE expand_more\nDirector\nJoel Newton\nProducer\nJoel Newton\nCast\nBryan Cranston\nbookmark_outline\nAdd to Watch List\nstar_outline\nRate\nfavorite_outline\nAdd to Favorites\nShowtimes\nALL\ncalendar_today\nFRI, MAY 22, 2026\naccessible\n · \nvrpano\nVIRTUAL REALITY\n12:45 PM\npeople\n12:55 PM\npeople\n1:10 PM\npeople\n1:20 PM\npeople\n1:35 PM\npeople\n1:45 PM\npeople\n2:00 PM\npeople\n3:45 PM\npeople\n3:55 PM\npeople\n4:10 PM\npeople\n4:20 PM\npeople\n4:35 PM\npeople\n4:45 PM\npeople\n5:00 PM\npeople\n6:45 PM\n6:55 PM\n7:10 PM\n7:20 PM\n7:35 PM\nSAT, MAY 23, 2026\naccessible\n · \nvrpano\nVIRTUAL REALITY\n12:45 PM\npeople\n12:55 PM\npeople\n1:10 PM\npeople\n1:20 PM\npeople\n1:35 PM\npeople\n1:45 PM\npeople\n2:00 PM\npeople\n3:45 PM\n3:55 PM\n4:10 PM\npeople\n4:20 PM\npeople\n4:35 PM\npeople\n4:45 PM\npeople\n5:00 PM\npeople\n6:45 PM\n6:55 PM\n7:10 PM\n7:20 PM\n7:35 PM\nSUN, MAY 24, 2026\naccessible\n · \nvrpano\nVIRTUAL REALITY\n12:45 PM\npeople\n12:55 PM\npeople\n1:10"
+  },
+  "movie_detail_interactive_full": [
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/",
+      "role": null,
+      "ariaLabel": null,
+      "cls": "link col"
+    },
+    {
+      "tag": "A",
+      "text": "SHOWTIMES",
+      "href": "/calendar",
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "A",
+      "text": "COMING SOON",
+      "href": "/coming-soon",
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "VIRTUAL REALITY\nexpand_more",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "MEMBERS\nexpand_more",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "arrow_drop_down",
+      "href": null,
+      "role": null,
+      "ariaLabel": "Expand",
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null,
+      "role": null,
+      "ariaLabel": "Menu",
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null,
+      "role": null,
+      "ariaLabel": "Header Menu Icon",
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/now-playing",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/location-information",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/our-story",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/community",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/contact-us",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/private-rentals",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/checkout/items",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/gift-cards",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/advertise",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/cookie-policy",
+      "role": "listitem",
+      "ariaLabel": null,
+      "cls": "q-item q-item-type row no-wrap q-item--clickable q-link curs"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "play_arrow",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--push q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "READ MORE expand_more",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "bookmark_outline\nAdd to Watch List",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "star_outline\nRate",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "favorite_outline\nAdd to Favorites",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ALL",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "calendar_today",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "A",
+      "text": "Cookie Policy.",
+      "href": "/cookie-policy",
+      "role": null,
+      "ariaLabel": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ACCEPT & DISMISS",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    }
+  ],
+  "movie_detail_showtime_candidates": [
+    {
+      "tag": "BUTTON",
+      "text": "bookmark_outline\nAdd to Watch List",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn"
+    }
+  ],
+  "click_result": {
+    "target": {
+      "tag": "BUTTON",
+      "text": "bookmark_outline\nAdd to Watch List",
+      "href": null,
+      "role": null,
+      "ariaLabel": null,
+      "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated"
+    },
+    "beforeURL": "https://www.yosemitecinema.com/movie/7579",
+    "afterURL": "https://www.yosemitecinema.com/movie/7579",
+    "sameTabNavigated": false,
+    "popups": [],
+    "newH1": "Experience Yosemite \nFor Everyone",
+    "newBodyPreview": "SHOWTIMES\nCOMING SOON\nVIRTUAL REALITY\nexpand_more\nMEMBERS\nexpand_more\narrow_drop_down\nplay_arrow\nExperience Yosemite \nFor Everyone\nRelease Date Sunday, July 10, 2022 ·  Documentary · 17 min\naccessible\nvrpano\nVirtual Reality\nOverview\nExperience Yosemite is a cinematic immersive journey through the wonders of Yosemite Valley. Narrated by Bryan Cranston. The new VR film features motion, scent, and haptics to give visitors an unforgettable journey.\n\nAs of July 2022, Yosemite Cinema is the only permanently installed VR Cinema in North America. Experience Yosemite was made specifically for this location.\nREAD MORE expand_more\nDirector\nJoel Newton\nProducer\nJoel Newton\nCast\nBryan Cranston\nbookmark_outline\nAdd to Watch List\nstar_outline\nRate\nfavorite_outline\nAdd to Favorites\nShowtimes\nALL\ncalendar_"
+  },
+  "after_click_interactive_sample": [
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/"
+    },
+    {
+      "tag": "A",
+      "text": "SHOWTIMES",
+      "href": "/calendar"
+    },
+    {
+      "tag": "A",
+      "text": "COMING SOON",
+      "href": "/coming-soon"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "VIRTUAL REALITY\nexpand_more",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "MEMBERS\nexpand_more",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "arrow_drop_down",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "href": null
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/now-playing"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/location-information"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/our-story"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/community"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/contact-us"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/private-rentals"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/checkout/items"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/gift-cards"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/advertise"
+    },
+    {
+      "tag": "A",
+      "text": "",
+      "href": "/cookie-policy"
+    },
+    {
+      "tag": "BUTTON",
+      "text": "play_arrow",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "READ MORE expand_more",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "bookmark_outline\nAdd to Watch List",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "star_outline\nRate",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "favorite_outline\nAdd to Favorites",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ALL",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "calendar_today",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:10 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:20 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "7:35 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "12:55 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:10 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:20 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:35 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "1:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "2:00 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "3:55 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:10 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:20 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:35 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "4:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "5:00 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:45 PM",
+      "href": null
+    },
+    {
+      "tag": "BUTTON",
+      "text": "6:55 PM",
+      "href": null
+    }
+  ],
+  "external_hosts_observed": [
+    "acsbapp.com",
+    "browser-intake-datadoghq.com",
+    "cdn.acsbapp.com",
+    "cdn.rollbar.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com",
+    "indy-systems.imgix.net",
+    "p.typekit.net",
+    "use.typekit.net",
+    "www.google-analytics.com",
+    "www.google.com",
+    "www.googletagmanager.com"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ts-playwright-ai-test",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Playwright + playwright-bdd tests targeting https://www.yosemitecinema.com",
+  "scripts": {
+    "test": "SMOKE_ONLY=1 playwright test",
+    "test:api": "playwright test --project=api",
+    "test:ui": "SMOKE_ONLY=1 playwright test --project=ui-chromium",
+    "test:regression": "playwright test --project=ui-chromium",
+    "test:regression:k": "playwright test --project=ui-chromium specs/e2e/workflows/workflow-k.spec.ts",
+    "bddgen": "bddgen -c playwright.bdd.config.ts --tags \"@smoke and not @tracefail\"",
+    "bddgen:regression": "bddgen -c playwright.bdd.config.ts --tags \"(@smoke or @regression) and not @tracefail\"",
+    "bddgen:trace-viewer-test": "bddgen -c playwright.bdd.config.ts --tags \"@trace-viewer-test\"",
+    "test:bdd": "npm run bddgen && playwright test -c playwright.bdd.config.ts",
+    "test:bdd:ui": "npm run bddgen && playwright test -c playwright.bdd.config.ts --project=bdd-ui-chromium",
+    "test:bdd:regression": "npm run bddgen:regression && playwright test -c playwright.bdd.config.ts --project=bdd-ui-chromium",
+    "test:bdd:trace-viewer-test": "npm run bddgen:trace-viewer-test && playwright test -c playwright.bdd.config.ts --project=bdd-ui-chromium; true",
+    "debug:ui": "playwright test --ui",
+    "debug:bdd:ui": "npm run bddgen && playwright test -c playwright.bdd.config.ts --ui",
+    "report": "playwright show-report",
+    "report:bdd:html": "npx http-server ./cucumber-report -c-1 -a localhost -o index.html"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.57.0",
+    "@types/node": "^20.0.0",
+    "dotenv": "^17.4.2",
+    "playwright-bdd": "^8.4.2",
+    "typescript": "^5.7.0"
+  }
+}

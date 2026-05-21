@@ -1,0 +1,1525 @@
+{
+  "baseURL": "https://www.yosemitecinema.com",
+  "generatedAt": "2026-05-20T20:55:12.812Z",
+  "steps": {
+    "A_after_guest": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nEMPTY CART\nTickets\nFood & Drink\nCart\nPayment\nGuest Checkout\n\nHaven't signed up yet? Include a Day Pass with your order\n\nDAY PASS\n$18.00\nADD\nTickets\nVR Adult\nBetween 13 and 59\n$34.95\nADD\nVR Child\nBetween 3 and 12\n$22.95\nADD\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "EMPTY CART",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "B_add_button_context": {
+      "hits": 3,
+      "context": [
+        {
+          "index": 0,
+          "nearbyText": "ADD"
+        },
+        {
+          "index": 1,
+          "nearbyText": "ADD"
+        },
+        {
+          "index": 2,
+          "nearbyText": "ADD"
+        }
+      ]
+    },
+    "C_after_first_add": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "title": "Experience Yosemite",
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: FOOD & DRINK\nTickets\nFood & Drink\nCart\nPayment\nGuest Checkout\n\nHaven't signed up yet? Include a Day Pass with your order\n\nDAY PASS\n$18.00\nADD\nTickets\nVR Adult\nBetween 13 and 59\n$34.95\n1\nVR Child\nBetween 3 and 12\n$22.95\nADD\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "DIV",
+          "text": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "DIV",
+          "text": "Experience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "NEXT: FOOD & DRINK",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ADD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "D_progression_buttons": [
+      {
+        "text": "NEXT: FOOD & DRINK",
+        "ariaLabel": null,
+        "disabled": false
+      }
+    ],
+    "E_food_drink_tab": {
+      "url": "https://www.yosemitecinema.com/checkout/items",
+      "title": "Experience Yosemite",
+      "bodyPreview": "Search...\nPopcorn\nBeverages\nBeer and Wine\nSnacks\nTreats\nFood\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: CART\ncheck\nTickets\nFood & Drink\nCart\nPayment\nPopcorn\nPopcorn\n$6.00\nAdd\nCaramel Corn\n$10.00\nAdd\nBeverages\nSodas\nA description\n$6.25\nAdd\nICEE\n$7.25\nAdd\nWaters\n$3.50\nAdd\nCoffee\n$3.50\nAdd\nMonster Energy Drinks\n$5.50\nAdd\nMinute Maid Drinks\nDifferent Minute Maid Juices and Drinks - Bottled\n$4.00\nAdd\nJava Monster\nJava Monster Loca Moca Coffee\n$5.50\nAdd\nReign Energy\n$5.50\nAdd\nPeach Tea\n$5.00\nAdd\nHot Chocolate\n$3.50\nAdd\nFairlife Protein\n$8.00\nAdd\nBeer and Wine\nAGE RESTRICTED\nSierra Cider Trail Hooch Can\n$8.50\nAdd\nSnacks\nFrench Toast Sticks 5\n$8.00\nAdd\nExtras\n$0.00\nAdd\nChurros\n$7.00\nAdd\nBarbell Protein Bar\n$5.00\nAdd\nTreats\nSkittles\n$5.50\nAdd\nMilk Duds\n$5.00\nAdd\nFruit Snacks\n$5.00\nAdd\nLife Savers Gummies\n$5.00\nAdd\nM&Ms\n$6.00\nAdd\nRed Vines\n$5.00\nAdd\nHot Tamales\n$5.25\nAdd\nJunior Mints\n$5.25\nAdd\nReese's Peanut Butter Cups\n$5.25\nAdd\nGummi Bears\n$5.50\nAdd\nWhoppers\n$5.25\nAdd\nReese's Pieces\n$5.50\nAdd\nHaagen Dazs Ice Cream Bar\n$5.25\nAdd\nDibs Crunch\n$5.50\nAdd\nIce Cream Cookie\n$5.00\nAdd\nSweetTart Ropes Cherry\n$5.25\nAdd\nMinute Maid Soft Frozen\n$6.00\nAdd\nFood\nPretzel\n$6.00\nAdd\nHotdog\n$6.00\nAdd\nNachos\n$6.25\nAdd\nPizza\n$9.00\nAdd\nMozzarella Sticks 5\n$8.00\nAdd\nSweet Potato Fries\n$8.00\nAdd\nChicken Strips 4\n$8.00\nAdd\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Search...",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Popcorn",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Beverages",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Beer and Wine",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Snacks",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Treats",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Food",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "DIV",
+          "text": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Expand",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "DIV",
+          "text": "Experience YosemiteMay 22nd at 12:45 pm  Yosemite Cinema · Yosemite VRkeyboard_a",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "NEXT: CART",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Add",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "F_cart_tab": {
+      "url": "https://www.yosemitecinema.com/checkout/cart",
+      "title": "Experience Yosemite",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTotal\n$34.95\nNEXT: PAYMENT\ncheck\nTickets\ncheck\nFood & Drink\nCart\nPayment\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "DIV",
+          "text": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "DIV",
+          "text": "Experience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "NEXT: PAYMENT",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "DIV",
+          "text": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "DIV",
+          "text": "Experience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "G_payment_tab": {
+      "url": "https://www.yosemitecinema.com/checkout/payment",
+      "title": "Experience Yosemite",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nAdd Gift Card, Voucher, Promo Code\nAPPLY\ncheck\nTickets\ncheck\nFood & Drink\ncheck\nCart\nPayment\nPricing\nItems\n$34.95\nTotals\n$34.95\nComplete Your Order\nEmail\nGift Cards & Promos\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nPayment Information\nPAY $34.95 WITH CARD\nThis website uses cookies. For more information, see our Cookie Policy.\nACCEPT & DISMISS",
+      "interactive": [
+        {
+          "tag": "DIV",
+          "text": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Expand",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "DIV",
+          "text": "Experience YosemiteMay 22nd at 12:45 pm  Yosemite Cinema · Yosemite VRkeyboard_a",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Start a Tab",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Click to view payment options",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "email",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Email",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "PAY $34.95 WITH CARD",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": true
+        },
+        {
+          "tag": "A",
+          "text": "Cookie Policy.",
+          "type": null,
+          "href": "/cookie-policy",
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "text": "ACCEPT & DISMISS",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false
+        }
+      ]
+    },
+    "Z_requests_log": [
+      {
+        "method": "POST",
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YY017ENRMC&gtm=45je65j0v9101330210za200zd9101330210&_p=1779310514310&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=1820414750.1779310514&frm=0&pscdl=noapi&rcb=3&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B143.0.7499.4%7CChromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.3.1&uaw=0&ul=en-us&tag_exp=0~115938465~115938469&sid=1779310514&sct=1&seg=1&dl=https%3A%2F%2Fwww.yosemitecinema.com%2Fcheckout%2Fcart&dr=https%3A%2F%2Fwww.yosemitecinema.com%2Fcheckout%2Fshowing%2Fexperience-yosemite%2F1021546&dt=Experience%20Yosemite&_s=7&tfd=25466"
+      },
+      {
+        "method": "POST",
+        "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub1a23aedea42c927d3ba6dd9180c7ad5c&dd-evp-origin-version=6.31.0&dd-evp-origin=browser&dd-request-id=9e681ac6-d85a-44b4-93dd-605b94419b6a&batch_time=1779310542783&_dd.api=fetch"
+      },
+      {
+        "method": "POST",
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YY017ENRMC&gtm=45je65j0v9101330210za200zd9101330210&_p=1779310514310&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AEAAAAQ&ae=a&are=1&cid=1820414750.1779310514&frm=0&pscdl=noapi&rcb=3&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B143.0.7499.4%7CChromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.3.1&uaw=0&ul=en-us&_s=8&tag_exp=0~115938465~115938469&dl=https%3A%2F%2Fwww.yosemitecinema.com%2Fcheckout%2Fcart&dr=https%3A%2F%2Fwww.yosemitecinema.com%2Fcheckout%2Fitems&sid=1779310514&sct=1&seg=1&dt=Experience%20Yosemite&en=page_view&_et=1002&tfd=28643"
+      },
+      {
+        "method": "POST",
+        "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub1a23aedea42c927d3ba6dd9180c7ad5c&dd-evp-origin-version=6.31.0&dd-evp-origin=browser&dd-request-id=bf93740d-bb77-496c-9a93-0948c44933af&batch_time=1779310543206&_dd.api=fetch"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+      },
+      {
+        "method": "POST",
+        "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+      },
+      {
+        "method": "POST",
+        "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+      },
+      {
+        "method": "POST",
+        "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+      },
+      {
+        "method": "POST",
+        "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+      },
+      {
+        "method": "POST",
+        "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+      },
+      {
+        "method": "POST",
+        "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+      },
+      {
+        "method": "POST",
+        "url": "https://play.google.com/log?format=json&hasfast=true&authuser=0"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://www.yosemitecinema.com/ahoy/events"
+      },
+      {
+        "method": "POST",
+        "url": "https://www.yosemitecinema.com/ahoy/events"
+      },
+      {
+        "method": "POST",
+        "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-YY017ENRMC&gtm=45je65j0v9101330210za200zd9101330210&_p=1779310514310&gcd=13l3l3l3l1l1&npa=0&dma=0&_eu=AAAAAAQ&are=1&cid=1820414750.1779310514&frm=0&pscdl=noapi&rcb=3&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B143.0.7499.4%7CChromium%3B143.0.7499.4%7CNot%2520A(Brand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.3.1&uaw=0&ul=en-us&tag_exp=0~115938465~115938469&sid=1779310514&sct=1&seg=1&dl=https%3A%2F%2Fwww.yosemitecinema.com%2Fcheckout%2Fpayment&dr=https%3A%2F%2Fwww.yosemitecinema.com%2Fcheckout%2Fitems&dt=Experience%20Yosemite&_s=9&tfd=29646"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://q.stripe.com/csp-report"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://m.stripe.com/6"
+      },
+      {
+        "method": "POST",
+        "url": "https://api.hcaptcha.com/checksiteconfig?v=6528675343bbcfa331f287bf983949f75bf1e7bb&host=b.stripecdn.com&sitekey=463b917e-e264-403f-ad34-34af0ee10294&sc=1&swa=1&spst=1"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      },
+      {
+        "method": "POST",
+        "url": "https://m.stripe.com/6"
+      },
+      {
+        "method": "POST",
+        "url": "https://m.stripe.com/6"
+      },
+      {
+        "method": "POST",
+        "url": "https://api.hcaptcha.com/getcaptcha/463b917e-e264-403f-ad34-34af0ee10294"
+      },
+      {
+        "method": "POST",
+        "url": "https://browser-intake-datadoghq.com/api/v2/rum?ddsource=browser&dd-api-key=pub1a23aedea42c927d3ba6dd9180c7ad5c&dd-evp-origin-version=6.31.0&dd-evp-origin=browser&dd-request-id=187105dd-cab9-4680-9adb-2df0e2936066&batch_time=1779310545853&_dd.api=fetch"
+      },
+      {
+        "method": "POST",
+        "url": "https://r.stripe.com/b"
+      }
+    ]
+  }
+}

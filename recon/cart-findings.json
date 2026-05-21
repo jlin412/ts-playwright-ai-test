@@ -1,0 +1,391 @@
+{
+  "baseURL": "https://www.yosemitecinema.com",
+  "generatedAt": "2026-05-20T21:11:15.523Z",
+  "steps": {
+    "A_cart_tab_initial": {
+      "url": "https://www.yosemitecinema.com/checkout/cart",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTotal\n$34.95\nNEXT: PAYMENT\ncheck\nTickets\ncheck\nFood & Drink\nCart\nPayment\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY",
+      "interactive": [
+        {
+          "tag": "DIV",
+          "text": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false,
+          "testId": null,
+          "cls": "q-item q-item-type row no-wrap q-item--clickable q-link cursor-pointer q-focusab"
+        },
+        {
+          "tag": "DIV",
+          "text": "Experience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false,
+          "testId": null,
+          "cls": "q-item q-item-type row no-wrap q-item--clickable q-link cursor-pointer q-focusab"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--round bg-res"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-field__native q-placeholder"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle bg"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "NEXT: PAYMENT",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": "checkout-controls-next-button",
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle q-"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--round text-grey-1 "
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--a"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--round text-grey-1 "
+        },
+        {
+          "tag": "DIV",
+          "text": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false,
+          "testId": null,
+          "cls": "q-item q-item-type row no-wrap q-item--clickable q-link cursor-pointer q-focusab"
+        },
+        {
+          "tag": "DIV",
+          "text": "Experience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Collapse",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false,
+          "testId": null,
+          "cls": "q-item q-item-type row no-wrap q-item--clickable q-link cursor-pointer q-focusab"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--round bg-res"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-field__native q-placeholder"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle bg"
+        }
+      ]
+    },
+    "B_cart_qty_remove_candidates": {
+      "count": 2,
+      "items": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "testId": null,
+          "title": null,
+          "cls": "q-field__native q-placeholder"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "testId": null,
+          "title": null,
+          "cls": "q-field__native q-placeholder"
+        }
+      ]
+    },
+    "C_total_label_locators": [
+      {
+        "text": "Total",
+        "parentText": "Total"
+      }
+    ],
+    "D_qty_digit_context": [
+      {
+        "itemText": "VR Adult",
+        "parentHTML": "<div data-v-540ad2ca=\"\" class=\"q-item__section column q-item__section--main justify-center col\"><div data-v-540ad2ca=\"\" class=\"q-item__label\">VR Adult  <!----><!----><!----></div><div data-v-540ad2ca=\"\" class=\"q-item__label\"><!----><!----><!----><!----></div><!----><!----><div data-v-540ad2ca=\"\" class=\"q-item__section column q-item__section--main justify-center\"><div data-v-540ad2ca=\"\"><span class=\"text-bold text-responsive\" data-test-id=\"cart-item-display-total\">$34.95</span></div></div></div>"
+      },
+      {
+        "itemText": "VR Adult",
+        "parentHTML": "<div data-v-540ad2ca=\"\" class=\"q-item__section column q-item__section--main justify-center col\"><div data-v-540ad2ca=\"\" class=\"q-item__label\">VR Adult  <!----><!----><!----></div><div data-v-540ad2ca=\"\" class=\"q-item__label\"><!----><!----><!----><!----></div><!----><!----><div data-v-540ad2ca=\"\" class=\"q-item__section column q-item__section--main justify-center\"><div data-v-540ad2ca=\"\"><span class=\"text-bold text-responsive\" data-test-id=\"cart-item-display-total\">$34.95</span></div></div></div>"
+      }
+    ],
+    "E_after_reload": {
+      "url": "https://www.yosemitecinema.com/",
+      "bodyPreview": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTotal\n$0.00\nNEXT: PAYMENT\ncheck\nFood & Drink\nCart\nPayment\nRedemptions\nkeyboard_arrow_down\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY",
+      "interactive": [
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-field__native q-placeholder"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle bg"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "NEXT: PAYMENT",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": true,
+          "testId": "checkout-controls-next-button",
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle q-"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--round text-grey-1 "
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--a"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--round text-grey-1 "
+        },
+        {
+          "tag": "DIV",
+          "text": "Redemptions\nkeyboard_arrow_down",
+          "type": null,
+          "href": null,
+          "name": null,
+          "ariaLabel": "Expand",
+          "placeholder": null,
+          "role": "button",
+          "disabled": false,
+          "testId": null,
+          "cls": "q-item q-item-type row no-wrap q-item--clickable q-link cursor-pointer q-focusab"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Sign Up",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--a"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "Log In",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--flat q-btn--rectangle q-btn--a"
+        },
+        {
+          "tag": "INPUT",
+          "text": "",
+          "type": "text",
+          "href": null,
+          "name": null,
+          "ariaLabel": "Add Gift Card, Voucher, Promo Code",
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-field__native q-placeholder"
+        },
+        {
+          "tag": "BUTTON",
+          "text": "APPLY",
+          "type": "button",
+          "href": null,
+          "name": null,
+          "ariaLabel": null,
+          "placeholder": null,
+          "role": null,
+          "disabled": false,
+          "testId": null,
+          "cls": "q-btn q-btn-item non-selectable no-outline q-btn--unelevated q-btn--rectangle bg"
+        }
+      ]
+    },
+    "F_storage_after_reload": {
+      "cookies": "ahoy_visit=1dbeabd0-a083-4ce1-8310-0c71daa8cbbe; ahoy_visitor=57442e57-dc51-4ed4-a65e-2ef0b062f124; _ga=GA1.1.1869808503.1779311477; circuit_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6Ik1RPT0iLCJleHAiOm51bGwsInB1ciI6ImNvb2tpZS5jaXJjdWl0X2lkIn19--b98409cf2963dd690c38a02888faf1d82a6a56c7; lastVisitedSiteId=1; _dd_s=aid=8b6dddcc-9a6e-42df-a20c-547b0c8c1170&rum=1&id=1160528e-b961-44c4-9647-38166fecb1ca&created=1779311476715&expire=1779312401901; site_id=eyJfcmFpbHMiOnsibWVzc2FnZSI6IklqRWkiLCJleHAiOiIyMDQ2LTA1LTIwVDIxOjExOjQyLjQwNFoiLCJwdXIiOiJjb29raWUuc2l0ZV9pZCJ9fQ%3D%3D--85d5d3e20da263999260e78882cebff74cbe8c9b; _ga_YY017ENRMC=GS2.1.s1779311477$o1$g1$t1779311503$j34$l0$h0; ahoy_events=%5B%5D",
+      "localStorage": {
+        "acceptedCookieNotification": "true"
+      },
+      "sessionStorage": {}
+    },
+    "G_fresh_context_cart_visit": {
+      "url": "https://www.yosemitecinema.com/",
+      "bodyPreview": "Your Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTotal\n$0.00\nNEXT: PAYMENT\ncheck\nFood & Drink\nCart\nPayment\nRedemptions\nkeyboard_arrow_down\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY"
+    }
+  }
+}

@@ -1,0 +1,459 @@
+{
+  "generatedAt": "2026-05-21T03:22:35.752Z",
+  "steps": {
+    "A_logged_in_url": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546"
+    },
+    "A_tickets_tab_member": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nYour Cart is Empty\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nEMPTY CART\nTickets\nFood & Drink\nCart\nPayment\nBecome a member to purchase tickets\nBECOME MEMBER\nBUY DAY PASS\nHi Jason, Choose Your Member Tickets\nMember Tickets\nJason\nNonmember Member\nVR Adult\n$34.95\nADD\nAdditional Tickets\nVR Adult\nBetween 13 and 59\n$34.95\nADD\nVR Child\nBetween 3 and 12\n$22.95\nADD\nWould You Like to Purchase Tickets for Other Members? info\nLink a member\nadd_link\nLINK\ncard_membership\nCARD\nshare\nEMAIL"
+    },
+    "A_member_ticket_info": {
+      "items": [
+        "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR",
+        "Yosemite Cinema\nYosemite VR",
+        "Yosemite VR",
+        "Become a member to purchase tickets\nBECOME MEMBER\nBUY DAY PASS",
+        "BECOME MEMBER\nBUY DAY PASS",
+        "BECOME MEMBER",
+        "Hi Jason, Choose Your Member Tickets\nMember Tickets\nJason\nNonmember Member\nVR Adult\n$34.95\nADD",
+        "Hi Jason, Choose Your Member Tickets",
+        "Member Tickets",
+        "Jason\nNonmember Member\nVR Adult\n$34.95\nADD",
+        "Jason\nNonmember Member\nVR Adult",
+        "Jason\nNonmember Member",
+        "Nonmember Member",
+        "VR Adult",
+        "$34.95\nADD",
+        "$34.95",
+        "Additional Tickets\nVR Adult\nBetween 13 and 59\n$34.95\nADD\nVR Child\nBetween 3 and 12\n$22.95\nADD",
+        "VR Adult\nBetween 13 and 59\n$34.95\nADD\nVR Child\nBetween 3 and 12\n$22.95\nADD",
+        "VR Adult\nBetween 13 and 59\n$34.95\nADD",
+        "VR Adult\nBetween 13 and 59"
+      ]
+    },
+    "A_add_buttons_context": {
+      "count": 3,
+      "contexts": [
+        "ADD",
+        "ADD",
+        "ADD"
+      ]
+    },
+    "A_day_pass_shown": {
+      "hasDayPass": true
+    },
+    "A2_cart_after_member_add": {
+      "url": "https://www.yosemitecinema.com/checkout/showing/experience-yosemite/1021546",
+      "bodyPreview": "Experience Yosemite \nFor Everyone\nDocumentary · \n17 min\n · \nFri, May 22\n12:45 PM-1:06 PM\nYosemite Cinema\nYosemite VR\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nNEXT: FOOD & DRINK\nTickets\nFood & Drink\nCart\nPayment\nBecome a member to purchase tickets\nBECOME MEMBER\nBUY DAY PASS\nHi Jason, Choose Your Member Tickets\nMember Tickets\nJason\nNonmember Member\nVR Adult\n$34.95\nADD\nAdditional Tickets\nVR Adult\nBetween 13 and 59\n$34.95\n1\nVR Child\nBetween 3 and 12\n$22.95\nADD\nWould You Like to Purchase Tickets for Other Members? info\nLink a member\nadd_link\nLINK\ncard_membership\nCARD\nshare\nEMAIL"
+    },
+    "A3_cart_page_member": {
+      "url": "https://www.yosemitecinema.com/checkout/cart",
+      "bodyPreview": "Tickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY\nTotal\n$34.95\nNEXT: PAYMENT\ncheck\nTickets\ncheck\nFood & Drink\nCart\nPayment\nRedemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY"
+    },
+    "A4_redemptions_info": {
+      "items": [
+        "Redemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY",
+        "Redemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY",
+        "Redemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY",
+        "Redemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down\nTickets\n1 ticket  ·  $34.95\nkeyboard_arrow_down\nExperience Yosemite\nMay 22nd at 12:45 pm\n YOSEMITE CINEMA · YOSEMITE VR\nkeyboard_arrow_down\nVR Adult\n$34.95\n1\nAdd Gift Card, Voucher, Promo Code\nAPPLY",
+        "Redemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down",
+        "Redemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down",
+        "Redemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down",
+        "Redemptions\n0 Hero Points available to spend.\nkeyboard_arrow_down",
+        "Redemptions\n0 Hero Points available to spend.",
+        "Redemptions",
+        "0 Hero Points available to spend.",
+        "Hero Points",
+        "Free Ticket 150 Hero PointsUnavailableFree Item 175 Hero PointsUnavailableFree Popcorn 100 Hero PointsUnavailable",
+        "Free Ticket 150 Hero PointsUnavailableFree Item 175 Hero PointsUnavailableFree Popcorn 100 Hero PointsUnavailable",
+        "Free Ticket 150 Hero PointsUnavailableFree Item 175 Hero PointsUnavailableFree Popcorn 100 Hero PointsUnavailable"
+      ]
+    },
+    "B_home_after_login": {
+      "url": "https://www.yosemitecinema.com/now-playing",
+      "bodyPreview": "SHOWTIMES\nCOMING SOON\nVIRTUAL REALITY\nexpand_more\nMEMBERS\nexpand_more\narrow_drop_down\nThe Mandalorian & Grogu\nAs the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.\nSTARTS FRIDAY, MAY 22ND\nExplore Movies\nNo movies here\nEXCLUSIVE VR CONTENT\nNo movies here\nCOMING SOON\nbookmark_outline\nMay 22\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 19\nbookmark_outline\nstar_outline\nfavorite_outline\nMay 29\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 4\nbookmark_outline\nstar_outline\nfavorite_outline\nMay 29\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 5\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 26\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 12\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 19\nLATEST NEWS\nThe Mandalorian & Grogu\nAs the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.\nIn the Grey\nA covert team of elite operatives embarks on a mission to steal back a billion-dollar fortune from a ruthless tyrant.\nThe Devil Wears Prada 2\nMiranda Priestly struggles against Emily Charlton, her former assistant turned rival executive, as they compete for advertising revenue amid declining print media, while Miranda nears retirement.\nThe Sheep Detectives\nGeorge Hardy is a shepherd who loves to read murder mysteries to his sheep, never suspecting that they can understand him.\nMichael\nThe story of pop superstar Michael Jackson -- from his extraordinary early days in the Jackson 5 to the visionary artist whose creative ambition fuels a relentless pursuit to become the biggest entertainer in the world.\nMortal Kombat II\nJohnny Cage joins other fighters in the ultimate, no-holds-barred battle to defeat the dark rule of Shao Kahn, a powerful tyrant who threatens the very existence of the Earthrealm and its defenders.\nThe Breadwinner\nA man becomes a stay-at-home dad when a once-in-a-lifetime opportunity takes his wife on a prolonged business trip for one month.\nMasters of the Universe\nThe Sword of Power leads Prince Adam back to Eternia, a world shattered under the fiendish rule of Skeletor.\nBackrooms\nA strange doorway appears in the basement of a furniture showroom.\nYosemite Cinema\n40015 Hwy 49, Suite 1\nOakhurst, CA 93644\n+1 559-683-3456\nsupport@yosemitecinema.com\nMore Information\nPrivacy Policy\nCommunity\nPrivate Rentals\nContact Us\nGift Cards\nAdvertise\n\n© Copyright 2026 Yosemite Cinema. All rights reserved.\n\nShaped by INDY\n\nNow Playing - Yosemite Cinema"
+    },
+    "B_members_dropdown": {
+      "url": "https://www.yosemitecinema.com/now-playing",
+      "bodyPreview": "SHOWTIMES\nCOMING SOON\nVIRTUAL REALITY\nexpand_more\nMEMBERS\nexpand_more\narrow_drop_down\nThe Mandalorian & Grogu\nAs the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.\nSTARTS FRIDAY, MAY 22ND\nExplore Movies\nNo movies here\nEXCLUSIVE VR CONTENT\nNo movies here\nCOMING SOON\nbookmark_outline\nMay 22\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 19\nbookmark_outline\nstar_outline\nfavorite_outline\nMay 29\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 4\nbookmark_outline\nstar_outline\nfavorite_outline\nMay 29\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 5\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 26\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 12\nbookmark_outline\nstar_outline\nfavorite_outline\nJun 19\nLATEST NEWS\nThe Mandalorian & Grogu\nAs the fledgling New Republic works to protect everything the Rebellion fought for, they enlist the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.\nIn the Grey\nA covert team of elite operatives embarks on a mission to steal back a billion-dollar fortune from a ruthless tyrant.\nThe Devil Wears Prada 2\nMiranda Priestly struggles against Emily Charlton, her former assistant turned rival executive, as they compete for advertising revenue amid declining print media, while Miranda nears retirement.\nThe Sheep Detectives\nGeorge Hardy is a shepherd who loves to read murder mysteries to his sheep, never suspecting that they can understand him.\nMichael\nThe story of pop superstar Michael Jackson -- from his extraordinary early days in the Jackson 5 to the visionary artist whose creative ambition fuels a relentless pursuit to become the biggest entertainer in the world.\nMortal Kombat II\nJohnny Cage joins other fighters in the ultimate, no-holds-barred battle to defeat the dark rule of Shao Kahn, a powerful tyrant who threatens the very existence of the Earthrealm and its defenders.\nThe Breadwinner\nA man becomes a stay-at-home dad when a once-in-a-lifetime opportunity takes his wife on a prolonged business trip for one month.\nMasters of the Universe\nThe Sword of Power leads Prince Adam back to Eternia, a world shattered under the fiendish rule of Skeletor.\nBackrooms\nA strange doorway appears in the basement of a furniture showroom.\nYosemite Cinema\n40015 Hwy 49, Suite 1\nOakhurst, CA 93644\n+1 559-683-3456\nsupport@yosemitecinema.com\nMore Information\nPrivacy Policy\nCommunity\nPrivate Rentals\nContact Us\nGift Cards\nAdvertise\n\n© Copyright 2026 Yosemite Cinema. All rights reserved.\n\nShaped by INDY\n\nNow Playing - Yosemite Cinema\nMembership & Guest Pricing\nView Membership\nModify Plan"
+    },
+    "B_members_inventory": {
+      "items": [
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/",
+          "testId": "internal-or-external-link"
+        },
+        {
+          "tag": "A",
+          "text": "SHOWTIMES",
+          "href": "/calendar",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "COMING SOON",
+          "href": "/coming-soon",
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "VIRTUAL REALITY\nexpand_more",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "MEMBERS\nexpand_more",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "arrow_drop_down",
+          "href": null,
+          "testId": "language-selector-button-dropdown"
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/now-playing",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/location-information",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/our-story",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/community",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/contact-us",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/private-rentals",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/checkout/items",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/gift-cards",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/advertise",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "",
+          "href": "/cookie-policy",
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "STARTS FRIDAY, MAY 22ND",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "star_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "favorite_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "star_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "favorite_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "star_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "favorite_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "star_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "favorite_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "star_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "favorite_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "star_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "favorite_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "star_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "favorite_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "bookmark_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "star_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "BUTTON",
+          "text": "favorite_outline",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "Privacy Policy",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "Community",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "Private Rentals",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "Contact Us",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "Gift Cards",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "Advertise",
+          "href": null,
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "Membership & Guest Pricing",
+          "href": "/membership--guest-pricing",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "View Membership",
+          "href": "/my-membership",
+          "testId": null
+        },
+        {
+          "tag": "A",
+          "text": "Modify Plan",
+          "href": "/checkout/modify-membership",
+          "testId": null
+        }
+      ]
+    },
+    "B_account_links": {
+      "items": []
+    },
+    "C_bookmark_buttons": {
+      "count": 26,
+      "items": [
+        {
+          "text": "STARTS FRIDAY, MAY 22ND",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "bookmark_outline",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "bookmark_outline",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "star_outline",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "favorite_outline",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "bookmark_outline",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "star_outline",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "favorite_outline",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "bookmark_outline",
+          "ariaLabel": null,
+          "img": null
+        },
+        {
+          "text": "star_outline",
+          "ariaLabel": null,
+          "img": null
+        }
+      ]
+    },
+    "C_bookmark_toggle": {
+      "before": "bookmark_outline",
+      "after": "bookmark",
+      "url": "https://www.yosemitecinema.com/now-playing/"
+    },
+    "D_account_path_account": {
+      "url": "https://www.yosemitecinema.com/account",
+      "bodyPreview": "HOME\narrow_drop_down\nLOG OUT\n👋 Hi, Jason\nAccount Overview\nMembership\nView & manage membership\nAccount Information\nEdit your contact information\nOrder History\nView current and past purchases\nPayment Information\nManage your saved credit & gift cards\nMy Movies\nEdit your watchlist and favorite movies\nManage Marketing Preferences\nManage how we contact you\nManage Friends\nAdd your friends to book together and more…\nJason's Account\nPersonal Details\nEDIT\nFirst Name\nLast Name\nEmail\nPhone Number\nDate of B"
+    }
+  }
+}

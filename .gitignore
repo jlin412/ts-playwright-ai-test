@@ -1,0 +1,14 @@
+# Playwright
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/cucumber-report/
+/playwright/.cache/
+/playwright/.auth/
+/.features-gen/
+
+# Generic local artifacts
+*.log
+.DS_Store
+.env
