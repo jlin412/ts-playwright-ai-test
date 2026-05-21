@@ -23,20 +23,33 @@ export class NowPlayingPage {
     return this.page.locator('a[href*="/movie/"]');
   }
 
+  noMoviesText(): Locator {
+    return this.page.getByText(/no movies here/i);
+  }
+
   // ── Assertions ──────────────────────────────────────────────────────────
 
   async expectLoaded() {
     await expect(this.heading).toBeVisible({ timeout: 15_000 });
   }
 
-  async expectAtLeastOneMovieListed() {
+  async expectMoviesOrEmptyState() {
+    // Sections (Explore Movies, Exclusive VR Content) may be empty — accept
+    // either at least one movie link or the "No movies here" empty-state text.
     await expect
-      .poll(async () => await this.movieLinks().count(), {
-        timeout: 30_000,
-        intervals: [500, 1000, 2000],
-        message: 'Waiting for at least one /movie/* link to appear on /now-playing',
-      })
-      .toBeGreaterThan(0);
+      .poll(
+        async () => {
+          const movies = await this.movieLinks().count();
+          const empty = await this.noMoviesText().count();
+          return movies > 0 || empty > 0;
+        },
+        {
+          timeout: 30_000,
+          intervals: [500, 1000, 2000],
+          message: 'Waiting for movie links or "No movies here" empty-state on /now-playing',
+        },
+      )
+      .toBe(true);
   }
 
   // ── BDD step decorators ─────────────────────────────────────────────────
@@ -51,9 +64,9 @@ export class NowPlayingPage {
     await this.expectLoaded();
   }
 
-  @Then('I see at least one movie listed')
-  async checkAtLeastOneMovie() {
-    await this.expectAtLeastOneMovieListed();
+  @Then('movies are listed or the page shows no movies')
+  async checkMoviesOrEmptyState() {
+    await this.expectMoviesOrEmptyState();
   }
 
   // ── Bookmark / watchlist helpers (require member login) ─────────────────

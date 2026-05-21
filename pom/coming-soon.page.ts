@@ -22,12 +22,27 @@ export class ComingSoonPage {
     await expect(this.heading).toBeVisible({ timeout: 15_000 });
   }
 
-  // Soft check: coming-soon content rotates; the page must load and either show
-  // movie cards OR display a graceful empty state.
+  noMoviesText(): Locator {
+    return this.page.getByText(/no movies here/i);
+  }
+
+  // Coming-soon content rotates — accept either movie cards or the empty state.
   async expectPageFunctional() {
-    // Just assert the page loaded and shows meaningful content (heading + body)
     await expect(this.heading).toBeVisible();
     await expect(this.page.locator('main')).toBeVisible();
+    await expect
+      .poll(
+        async () => {
+          const cards = await this.movieCards().count();
+          const empty = await this.noMoviesText().count();
+          return cards > 0 || empty > 0;
+        },
+        {
+          timeout: 15_000,
+          message: 'Waiting for coming soon movie cards or "No movies here" empty state',
+        },
+      )
+      .toBe(true);
   }
 
   @Given('I am on the coming soon page')

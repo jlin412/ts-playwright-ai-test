@@ -6,10 +6,10 @@ Feature: Informational pages and navigation
         When I am on the now playing page
         Then the now playing page is loaded
 
-    Scenario: Now playing page lists at least one movie
+    Scenario: Now playing page shows movies or the empty state
         When I am on the now playing page
         Then the now playing page is loaded
-        And I see at least one movie listed
+        And movies are listed or the page shows no movies
 
     Scenario: Coming soon page loads and displays its content
         When I am on the coming soon page
